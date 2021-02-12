@@ -1,4 +1,3 @@
-# prueba
-test repository
+# Practicas .py
 
-agregamos una linea a la ramificacion 
+codigos de practica
